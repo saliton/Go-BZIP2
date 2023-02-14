@@ -1,6 +1,6 @@
 # 一筋縄ではいかない　GoでZIPの中のBZIP2を解凍
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Go-BZIP2/blob/main/ZIP_BZIP2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Go-BZIP2/blob/main/ZIP_BZIP2.ipynb)
 
 大量のテキストファイルを処理する時、何百万ものファイルをファイルシステムに置いたままにしているとなにかと不便なので、zipにまとめてから処理することがあります。そんな時に、zipの圧縮方式をbzip2にした場合の、Go言語で解凍する方法です。一筋縄ではいきませんでした。
 
